@@ -3,7 +3,7 @@ package HW;
 import java.util.Scanner;
 
 public class Convert_Celsius_to_Fahrenheit {
-    public static void main(String[] ads){
+    public static void main(String[] args){
 
         System.out.println("Enter in degree in Celsius: ");
         int celsius;
